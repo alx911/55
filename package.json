@@ -1,0 +1,14 @@
+{
+  "name": "redsearch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    
+    "now": "now && now alias"
+  },
+  "author": "a911",
+  "license": "UNLICENSED"
+}
+
+  
